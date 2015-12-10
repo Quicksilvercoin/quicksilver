@@ -1,17 +1,21 @@
-Quicksilver cryptocurrency.
+#Quicksilver (QSLV)#
 
-5 Million Coins
+A proof-of-stake (PoS) crypto-currency.  
+http://quicksilvercoin.co
 
-6% POS Interest per Year
+##Coin Specifications##
 
-Min Stake Age 4 Hours
+*  5 Million Coins (3444440.98509298 after Bittrex burn)
+*  6% POS Interest per Year
+*  Min Stake Age 2 Hours
+*  Max Stake Age 20 Days
+*  RPCPort: 21334
+*  P2PPort: 21333
 
-Max Stake Age 20 Days
+##Block Explorer##
 
-RPCPort: 21334
+http://qslv.iquidus.io
 
-P2PPort: 21333
+##Exchanges##
 
-POD Cryptoasian
-
-
+Bittrex: https://bittrex.com/Market/?MarketName=BTC-QSLV
